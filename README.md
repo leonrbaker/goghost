@@ -1,8 +1,7 @@
 # goghost
 Go bindings for the Ghostscript interpreter API
 
-==== Build instructions ====
-
+## Build instructions
 
 Download the Ghostscript 9.15 source from:
 http://www.ghostscript.com/download/gsdnld.html
